@@ -15,7 +15,14 @@
         android:id="@+id/change"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="换肤"
+        android:text="换肤red"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/change2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="换肤fen"
         android:textColor="@color/colorAccent" />
 
     <Button
